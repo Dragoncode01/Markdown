@@ -75,11 +75,4 @@ Print("hello World")
 * [] Task 3
 * [x] Task 4 
 
-echo "# markdown-test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Dragoncode01/markdown-test.git
-git push -u origin main
 @dragoncode01 :smile: :+1:
